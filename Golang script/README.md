@@ -10,6 +10,6 @@ To make the script executable, you can use the chmod command:
 `chmod +x /path/to/golang-install.sh`
 
 You can then run the script by typing ./golang-install.sh in the terminal.
-`./golang-install.sh`
+`sudo ./golang-install.sh`
 
 Hope this helps!!!
